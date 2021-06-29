@@ -25,7 +25,7 @@ export default ({ children }) => {
       </header>
       {children}
       <footer className="site-footer">
-        <p>&copy; {new Date().getFullYear()} <a href="www.theglobaldialogueinitiative.org">The Global Dialogue Initiative</a></p>
+        <p>&copy; {new Date().getFullYear()} <a href="">The Global Dialogue Initiative</a></p>
       </footer>
     </div>
   )
