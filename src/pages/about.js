@@ -17,8 +17,8 @@ const AboutPage = ({
       </Helmet>
       <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
         <h1 className="post-title">About</h1>
-        <p>The Global Dialogue Initiative is a nonpartisan platform where teens can contribute to discussions
-        about political, economic, and social issues from around the world.</p>
+        <p>The Global Dialogue Initiative is a nonpartisan platform where teens can contribute to discussions</p> 
+        <p>about political, economic, and social issues from around the world.</p>
       </div>
       <div>
        <div>   
