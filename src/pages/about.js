@@ -15,14 +15,12 @@ const AboutPage = ({
         <title>About — {site.siteMetadata.title}</title>
         <meta name="description" content={"About page of " + site.siteMetadata.description} />
       </Helmet>
-      <div className="two-grids -about">
-        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
-          <h1 className="post-title">Get in Touch</h1>
-          <p>Let me help you kick start your next project &rarr;</p>
-        </div>
-        <div>
-          ABOUTTTT
-        </div>
+      <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
+        <h1 className="post-title">Get in Touch</h1>
+        <p>Let me help you kick start your next project &rarr;</p>
+      </div>
+      <div>
+        ABOUTTTT
       </div>
     </Layout>
   )
