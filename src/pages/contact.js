@@ -19,7 +19,7 @@ const ContactPage = ({
           <h1 className="post-title">Get in Touch</h1>
           <p>Let me help you kick start your hello &rarr;</p>
         </div>
-        <div>
+        <div> /*
           <form className="form-container" action="https://sendmail.w3layouts.com/SubmitContactForm" method="post">
             <div>
               <label htmlFor="w3lName">Name</label>
@@ -40,7 +40,7 @@ const ContactPage = ({
             <div style={{display: "flex", justifyContent: "flex-end"}}>
               <input type="submit" className="button -primary" style={{marginRight: 0}} />
             </div>
-          </form>
+          </form> */
         </div>
       </div>
     </Layout>
