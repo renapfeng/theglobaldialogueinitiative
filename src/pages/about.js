@@ -16,11 +16,12 @@ const AboutPage = ({
         <meta name="description" content={"About page of " + site.siteMetadata.description} />
       </Helmet>
       <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
-        <h1 className="post-title">Get in Touch</h1>
-        <p>Let me help you kick start your next project &rarr;</p>
+        <h1 className="post-title">About</h1>
+        <p>The Global Dialogue Initiative is a nonpartisan platform where teens can contribute to discussions about political, economic, and social issues from around the world.</p>
       </div>
       <div>
-        ABOUTTTT
+        <h1 className="post-title">Get in Touch</h1>
+        <p>Let me help you kick start your next project &rarr;</p>
       </div>
     </Layout>
   )
