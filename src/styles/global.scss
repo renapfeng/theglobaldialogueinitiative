@@ -9,23 +9,23 @@ body {
   margin-top: 0
 }
 body.light {
-  --primary-color: #381696;
+  --primary-color: #3a5687; //#381696
   --primary-text-color: #fff;
-  --featured-bg: #493b8a;
+  --featured-bg: #165c96; //#493b8a
   --featured-text: #fff;
-  --secondary-color: #10072b;
+  --secondary-color: #49782a; //#10072b
   --background: #fff;
   --site-header: var(--background);
   --card-bg: #fff;
   --card-bdr: #eee;
-  --card-shadow: #d5d5d5;
+  --card-shadow: #848d9c;
   --btn-bg: var(--background);
-  --btn-bdr: #d3d6e7;
-  --btn-text-color: #868892;
+  --btn-bdr: #848d9c;
+  --btn-text-color: #848d9c;
   --btn-hover-bg: var(--btn-bdr);
-  --btn-hover-text-color: #00062b;
-  --contact-bg: #f7f8fe;
-  --contact-bdr: #d3d6e7;
+  --btn-hover-text-color: #112547;
+  --contact-bg: #848d9c;
+  --contact-bdr: #848d9c;
   --input-bg: var(--background);
 }
 body.dark {
