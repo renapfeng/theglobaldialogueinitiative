@@ -11,13 +11,13 @@ const ContactPage = ({
   return (
     <Layout>
       <Helmet>
-        <title>About/Contact — {site.siteMetadata.title}</title>
-        <meta name="description" content={"About/Contact page of " + site.siteMetadata.description} />
+        <title>Contact — {site.siteMetadata.title}</title>
+        <meta name="description" content={"Contact page of " + site.siteMetadata.description} />
       </Helmet>
       <div className="two-grids -contact">
         <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
-          <h1 className="post-title">Get in Touch</h1>
-          <p>Let me help you kick start your hello &rarr;</p>
+          <h1 className="post-title">About</h1>
+          <p>Contact us here &rarr;</p>
         </div>
         <div> */
         </div>
