@@ -20,6 +20,8 @@ const AboutPage = ({
         <p>The Global Dialogue Initiative is a nonpartisan platform where teens can contribute to discussions about political, economic, and social issues from around the world.</p>
       </div>
       <div>
+        <br>
+        <br>
         <h3>Name &bull; Executive Director</h3>
         <p>Let me help you kick start your next project &rarr;</p>
       </div>
