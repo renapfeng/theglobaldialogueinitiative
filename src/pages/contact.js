@@ -14,12 +14,12 @@ const ContactPage = ({
         <title>Contact — {site.siteMetadata.title}</title>
         <meta name="description" content={"Contact page of " + site.siteMetadata.description} />
       </Helmet>
-      <div className="two-grids -contact">
-        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
-          <h1 className="post-title">About</h1>
-          <p>Contact us here &rarr;</p>
-        </div>
-        <div> */
+      
+      <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
+        <h1 className="post-title">About</h1>
+        <p>Contact us here &rarr;</p>
+      </div>
+        */
         </div>
       </div>
     </Layout>
