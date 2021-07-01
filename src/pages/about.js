@@ -21,6 +21,9 @@ const AboutPage = ({
       </div>
       <div>
         <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
         <h3>Name &bull; Executive Director</h3>
         <p>Let me help you kick start your next project &rarr;</p>
       </div>
