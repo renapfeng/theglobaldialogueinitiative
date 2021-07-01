@@ -24,6 +24,30 @@ const AboutPage = ({
         <br/>
         <h3>Name &bull; Executive Director</h3>
         <p>Let me help you kick start your next project &rarr;</p>
+        <br/>
+        <br/>
+        <h3>Name &bull; Marketing/Outreach Director</h3>
+        <p>Let me help you kick start your next project &rarr;</p>
+        <br/>
+        <br/>
+        <h3>Name &bull; Creative Director</h3>
+        <p>Let me help you kick start your next project &rarr;</p>
+        <br/>
+        <br/>
+        <h3>Name &bull; Technology Director</h3>
+        <p>Let me help you kick start your next project &rarr;</p>
+        <br/>
+        <br/>
+        <h3>Name &bull; ETC Director</h3>
+        <p>Let me help you kick start your next project &rarr;</p>
+        <br/>
+        <br/>
+        <h3>Name &bull; ETC Director</h3>
+        <p>Let me help you kick start your next project &rarr;</p>
+        <br/>
+        <br/>
+        <h3>Name &bull; ETC Director</h3>
+        <p>Let me help you kick start your next project &rarr;</p>
       </div>
     </Layout>
   )
