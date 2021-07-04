@@ -11,7 +11,6 @@ const ContactPage = ({
 }) => {
   return (
     </Layout>
-     <Layout>
       <Helmet>
         <title>Contact — {site.siteMetadata.title}</title>
         <meta name="description" content={"Contact page of " + site.siteMetadata.description} />
