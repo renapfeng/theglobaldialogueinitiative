@@ -21,14 +21,14 @@ export default function Template({
           {!frontmatter.thumbnail && (
             <div className="post-thumbnail">
               <h1 className="post-title">{frontmatter.title}</h1>
-              <div className="post-meta">{frontmatter.author}</div>
+              <div className="post-meta">{frontmatter.date}</div>
               <div className="post-author">{frontmatter.author}</div>
             </div>
           )}
           {!!frontmatter.thumbnail && (
             <div className="post-thumbnail" style={{backgroundImage: `url(${frontmatter.thumbnail})`}}>
               <h1 className="post-title">{frontmatter.title}</h1>
-              <div className="post-meta">{frontmatter.author}</div>
+              <div className="post-meta">{frontmatter.date}</div>
               <div className="post-author">{frontmatter.author}</div>
             </div>
           )}
@@ -56,6 +56,7 @@ export const pageQuery = graphql`
         path
         title
         thumbnail
+        author
         metaDescription
       }
     }
