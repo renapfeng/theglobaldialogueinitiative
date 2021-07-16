@@ -37,7 +37,6 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
-        author
         description
       }
     }
@@ -50,7 +49,6 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             path
             title
-            author
             thumbnail
           }
         }
