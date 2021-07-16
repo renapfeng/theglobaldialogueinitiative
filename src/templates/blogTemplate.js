@@ -22,7 +22,7 @@ export default function Template({
             <div className="post-thumbnail">
               <h1 className="post-title">{frontmatter.title}</h1>
               <div className="post-meta">{frontmatter.date}</div>
-              <div className="post-author">{frontmatter.author}</div>
+              <div className="post-author">By: {frontmatter.author}</div>
             </div>
           )}
           {!!frontmatter.thumbnail && (
