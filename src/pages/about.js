@@ -17,8 +17,7 @@ const AboutPage = ({
       </Helmet>
       <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
         <h1 className="post-title">About</h1>
-        <p>The Global Dialogue Initiative is a platform for youth around the world to contribute to discussions on political, economic, and social issues.</p>
-        <a href='https://www.freecodecamp.org/'><button>Link To freeCodeCamp</button></a>     
+        <p>The Global Dialogue Initiative is a platform for youth around the world to contribute to discussions on political, economic, and social issues.</p>   
       <div>
         <br/>
         <br/>
