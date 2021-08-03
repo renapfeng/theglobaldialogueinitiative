@@ -11,10 +11,10 @@ const PostLink = ({ post }) => (
     <header>
       <h2 className="post-title">
         <Link to={post.frontmatter.path} className="post-link">
-          {post.frontmatter.title}
+          {post.frontmatter.date}
         </Link>
       </h2>
-      <div className="post-meta">{post.frontmatter.date}</div>
+      <div className="post-meta">{post.frontmatter.author}</div>
       <div className="post-author">{post.frontmatter.author}</div>
     </header>
   </article>
