@@ -1,9 +1,11 @@
 {
   "title": "The Global Dialogue Initiative",
+  "author": "Testing",
   "siteUrl": "https://delog-w3layouts.netlify.com/",
   "description": "The Global Dialogue Initiative",
   "home": {
     "title": "Promoting youth dialogue on the global issues of today",
-    "description": "Welcome to our in progress webpage!"
+    "description": "Welcome to our in progress webpage!",
+    "author": "Testing 2"
   }
 }
