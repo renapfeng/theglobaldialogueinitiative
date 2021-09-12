@@ -17,7 +17,7 @@ const ContactPage = ({
       </Helmet>
       <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
         <h1 className="post-title">Contact</h1>
-        <p>Feel free to email us at ____@theglobaldialogueinitiative.org with any questions. We are open to partnerships and would love to hear from you!</p>
+        <p>Feel free to email us at rena@theglobaldialogueinitiative.org with any questions. We are open to partnerships and would love to hear from you!</p>
       </div>
       <div>
       </div>
